@@ -1,5 +1,7 @@
 # Apple-Retail-Sales-SQL-Project
 
+![](apple_store.jpg)
+
 ## Project Overview
 
 This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally.
